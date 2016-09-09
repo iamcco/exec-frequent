@@ -1,8 +1,8 @@
 {
   "name": "exec-frequent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "exec function frequent",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "node test.js"
   },
